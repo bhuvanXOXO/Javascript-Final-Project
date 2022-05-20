@@ -1,0 +1,23 @@
+{
+  "name": "npm_twitter_api",
+  "version": "1.0.0",
+  "description": "final JS project using twitter api to fetch and create tweets",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "api",
+    "bot",
+    "javascript"
+  ],
+  "author": "Bhuvan Srivastava",
+  "license": "ISC",
+  "dependencies": {
+    "needle": "^3.1.0",
+    "twit": "^2.2.11",
+    "twitter-api-v2": "^1.12.0"
+  }
+}
